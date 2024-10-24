@@ -25,7 +25,3 @@ If you use this code, please cite the following paper:
 ```
 
 For more details, see the paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/10568501).
-
----
-
-Let me know if you'd like any further adjustments!
