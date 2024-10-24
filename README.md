@@ -1,7 +1,3 @@
-Here's a tailored GitHub README based on the provided title and abstract:
-
----
-
 # Partial Label Learning With Focal Loss for Sea Ice Classification Based on Ice Charts
 
 This repository contains the code associated with the paper "Partial Label Learning With Focal Loss for Sea Ice Classification Based on Ice Charts," published in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
